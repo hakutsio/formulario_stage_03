@@ -1,6 +1,6 @@
 ## Projeto Layout stage_03 explorer
 
-![preview](../preview/preview.png)
+![preview](./preview/preview.png)
 
 > Formulario
 
